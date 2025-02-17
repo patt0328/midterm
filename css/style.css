@@ -20,18 +20,18 @@ body {
     line-height: 1.5;
     margin: 0;
 }
-.introduction {
+.introduction-text {
     font-family: 'Open Sans', sans-serif;
 }
+
+.author-date{font-family: 'Open Sans', sans-serif;}
+
 header, footer {
     background-color: #000;
     color: #fff;
     text-align: center;
 }
 
-photo{
-    width: 100%;
-}
 
 .image-container {
     display: block;
